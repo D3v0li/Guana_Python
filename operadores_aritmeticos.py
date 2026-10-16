@@ -13,5 +13,5 @@ A soma é {soma},
 a subtração é {subtracao},
 a multiplicação é {multiplicacao},
 a divisão é {divisao:.2f},
-o resto da divisão é {div} e a
-exponenciação é {raiz:.2f}''')
+o resto da divisão é {div} 
+e a exponenciação é {raiz:.2f}''')
