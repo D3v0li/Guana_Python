@@ -2,6 +2,8 @@
 
 nome = input(("Digite seu nome: "))
 ano = int(input("Qual o ano de nascimento: ")) 
-idade = 2026 - ano
+ano_atual = int(input("Digite o ano atual: "))
 
-print(f'{nome}, você faz {idade} anos')
+idade = ano_atual - ano
+
+print(f'{nome}, você vai fazer {idade} anos')
