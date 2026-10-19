@@ -1,4 +1,4 @@
-# Solicita que o usuário digite um número inteiro
+# Solicita que o usuário digite um número inteiro e veja sua tabuada
 numero = int(input("Digite um número para ver a tabuada: "))
 
 print(f"\nTabuada do {numero}:")
