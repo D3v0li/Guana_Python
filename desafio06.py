@@ -3,10 +3,10 @@ numero = int(input("Digite um número: "))
 
 dobro = numero * 2
 triplo = numero * 3
-raiz_Quadrada = numero ** 2
+raiz_Quadrada = numero ** (1/2)
 
 print(f'''
 O dobro do número é {dobro},
 o triplo é {triplo}
-e a raiz quadrada é {raiz_Quadrada}
+e a raiz quadrada é {raiz_Quadrada:.2f}
 ''') 
